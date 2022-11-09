@@ -1,3 +1,3 @@
-items = ["Apple","Mango","Banana","Grapes"]
+fruits = ["Apple","Mango","Banana","Grapes"]
 
-print(items)
+print(fruits)
